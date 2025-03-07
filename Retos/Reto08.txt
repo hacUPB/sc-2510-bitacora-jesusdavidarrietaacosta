@@ -1,0 +1,4 @@
+R/:Este programa suma lo que este en var1 con lo que esta en var2 y el resultado lo deja en var3
+
+
+R/: están en la posición 16,17 y 18 respectivamente. Están en estas posiciones porque son las primeras 3 variables (var)disponibles  de las variables reservadas para los registros  y uso interno del VM
