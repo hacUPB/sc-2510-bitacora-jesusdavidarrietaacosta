@@ -1,0 +1,15 @@
+- ¿Qué hace este programa?
+- ¿En qué memoria está almacenada la variable i? ¿En qué dirección de esa memoria?
+- ¿En qué memoria y en qué dirección de memoria está almacenado el comentario //`i = 1000?`
+- ¿Cuál es la primera instrucción del programa anterior? ¿En qué memoria y en qué dirección de memoria está almacenada esa instrucción?
+- ¿Qué son CONT y LOOP?
+- ¿Cuál es la diferencia entre los símbolos `i` y `CONT`
+
+R/: Este programa es una cuenta regresiva desde 1000 hasta 0
+R/: La memoria esta almacenada en la memoria 16
+R/: es un comentario esa memoria no se almacena
+R/: La primera instrucción es
+@1000 
+D=A 
+R/: CONT es 12 en la ram(final del bucle cuando i=0) y LOOP (bucle) 4 en la ram
+R/: CONT tiene un valor en ocupado en la ram 
