@@ -1,3 +1,0 @@
-R/: coloca el numero uno en la variable (i)16 luego coloca el numero 0 en la variable (sum) 17 luego suma 16 y 17, poniendo el resultado en 17 para al final sumarle uno a la casilla 16 dejando 2 en 16 y 1 en 17
-
-R/: La variable i estara en la RAM16 y sum en la RAM17. Ya que de la RAM 0 a la RAM 15 esta reservada para registros y usos especiales.
